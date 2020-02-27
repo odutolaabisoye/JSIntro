@@ -1,2 +1,0 @@
-# JSIntro
-Created with CodeSandbox
